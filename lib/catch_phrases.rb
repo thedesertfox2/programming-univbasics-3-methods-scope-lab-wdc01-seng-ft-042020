@@ -19,6 +19,3 @@ phrase1 = "It's Dangerous To Go Alone! Take This."
 
 def all_phrases 
   
-end
-
-all_phrases phrase, status, phrase1
