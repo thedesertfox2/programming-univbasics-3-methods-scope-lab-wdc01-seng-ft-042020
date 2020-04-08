@@ -12,3 +12,9 @@ def link
   phrase1 = "It's Dangerous To Go Alone! Take This."
   puts phrase1
 end
+
+def all_phrases
+  mario = phrase
+  toadstool = status
+  link = phrase1
+end
