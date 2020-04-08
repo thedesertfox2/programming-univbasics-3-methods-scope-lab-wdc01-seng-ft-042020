@@ -13,8 +13,10 @@ def link
   puts phrase1
 end
 
-def all_phrases
-  mario = phrase
-  toadstool = status
-  link = phrase1
+def all_phrases mario, toadstool, link
+  puts mario 
+  puts toadstool 
+  puts link 
 end
+
+all_phrases phrase, status, phrase1
