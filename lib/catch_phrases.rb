@@ -13,10 +13,6 @@ def link
   puts phrase1
 end
 
-phrase = 'It\'s-a me, Mario!'
-status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-phrase1 = "It's Dangerous To Go Alone! Take This."
-
 def all_phrases
   puts mario
   puts toadstool
