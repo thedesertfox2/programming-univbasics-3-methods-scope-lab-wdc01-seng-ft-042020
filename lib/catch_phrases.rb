@@ -18,4 +18,7 @@ status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 phrase1 = "It's Dangerous To Go Alone! Take This."
 
 def all_phrases 
+end
+
+puts all_phrases phrase
   
